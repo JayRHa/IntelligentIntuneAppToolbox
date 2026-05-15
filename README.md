@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides archived AI-assisted toolbox for Microsoft Intune app deployment and automation experiments.
+Archived AI-assisted toolbox for Microsoft Intune app deployment and automation experiments.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
@@ -42,4 +42,4 @@ This repository provides archived AI-assisted toolbox for Microsoft Intune app d
 
 ## Existing Documentation
 
-# InteligentIntuneAppToolBox
+# IntelligentIntuneAppToolbox
